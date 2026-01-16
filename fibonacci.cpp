@@ -5,6 +5,6 @@
 
 int main() {
 // std::vector
- 
+ std::cout << "Hello World\n";
 
 }
